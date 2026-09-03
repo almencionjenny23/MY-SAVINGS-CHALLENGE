@@ -1,0 +1,26 @@
+{
+  "name": "My Savings Challenge Hub",
+  "short_name": "Savings Hub",
+  "description": "My Savings Challenge Hub \u2014 savings challenges in a website and installable app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff1f2",
+  "theme_color": "#e11d48",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
